@@ -22,7 +22,7 @@ Esta atividade tem como objetivo aplicar os conceitos de **testes automatizados*
    ```bash
    npm install
 2. **Executar os testes com Jest** 
-   No terminal ainda:
+  
     ```bash
    npm test
 3. **Ao executar, a saída deve ser semelhante a esta**
